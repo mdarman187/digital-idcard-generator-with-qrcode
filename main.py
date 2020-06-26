@@ -77,5 +77,5 @@ image.save(str(a) + '.png')
 
 image.show()
 
-#connection=MongoClient("mongodb+srv://gaurav2708:<loveumom>@gauravsinghrajput-riwzy.mongodb.net/test?retryWrites=true")
+#connection=MongoClient("mongodb+srv://*************.mongodb.net/test?retryWrites=true")
 #db = connection.test()
